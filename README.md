@@ -10,7 +10,7 @@ I analyzed a dataset of 370104 english words adapted from https://github.com/dwy
   
   "bootie"
   
-  "empire" 
+  "empire" <br>
   "monads" (I like Leibniz)
   "nomads" (And Deleuze)
   "pigeon"
