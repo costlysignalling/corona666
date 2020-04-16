@@ -6,18 +6,16 @@ I analyzed a dataset of 370104 english words adapted from https://github.com/dwy
 
 **My favourites** (in alphabetical order):
  
-  "anubis" (I am not even surprised this turned out to be a 666 word)
-  
-  "bootie"
-  
-  "empire" <br>
-  "monads" (I like Leibniz)
-  "nomads" (And Deleuze)
-  "pigeon"
-  "pyjama" (This should have been pointed out with the original post!)
-  "trader" (see empire)
-  "trifid"
-  "weewee" (I am sorry to add "bootie" and "weewee", I am just that kind of person...)
+  "anubis" (I am not even surprised this turned out to be a 666 word)<br>
+  "bootie"<br>
+  "empire"<br>
+  "monads" (I like Leibniz)<br>
+  "nomads" (And Deleuze)<br>
+  "pigeon"<br>
+  "pyjama" (This should have been pointed out with the original post!)<br>
+  "trader" (see empire)<br>
+  "trifid"<br>
+  "weewee" (I am sorry to add "bootie" and "weewee", I am just that kind of person...)<br>
 
 You can browse them all in the "beasts.txt" file.
 Have fun!
