@@ -15,7 +15,7 @@ I analyzed a dataset of 370104 english words adapted from https://github.com/dwy
   "pyjama" (This should have been pointed out with the original post!)<br>
   "trader" (see empire)<br>
   "trifid"<br>
-  "weewee" (I am sorry to add "bootie" and "weewee", I am just that kind of person...)<br>
+  "weewee" (I am sorry to add "bootie" and "weewee" to this list, I am just that kind of person...)<br>
 
 You can browse them all in the "beasts.txt" file.
 Have fun!
